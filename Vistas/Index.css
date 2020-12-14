@@ -1,0 +1,38 @@
+body{
+    background-color: wheat;
+}
+.carousel-item{
+    
+    height: 25rem;
+    position: relative;
+    background: white;
+    
+}
+.slider1{
+    background: url(../Imagenes/FondoRegistro.jpg)  no-repeat;
+    background-position: bottom;
+    color: white;
+    
+}
+.slider2{
+    background: url(../Imagenes/fondoburro.jpg) no-repeat;
+background-position: bottom;
+    color: white;
+}
+.container{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 50px;
+}
+
+.con2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    padding-top: 50px;
+    text-align: right;
+}

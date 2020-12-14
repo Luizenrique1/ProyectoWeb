@@ -1,0 +1,15 @@
+
+
+.main-section{
+    margin:0 auto;
+    margin-top:25%;
+    padding: 0;
+}
+
+.modal-content{
+    background-color: #000000;
+    padding: 0 20px;
+    border-radius: 0%;
+    border-color: white;
+}
+
